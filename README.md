@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://badge42.vercel.app/api/v2/claetr0st00490fl95eay2mt8/stats?cursusId=21&coalitionId=46
+
+[![soukamar's 42 stats](https://badge42.vercel.app/api/v2/claetr0st00490fl95eay2mt8/stats?cursusId=21&coalitionId=9)](https://github.com/JaeSeoKim/badge42)
