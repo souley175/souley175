@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **souley175/souley175** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/claetr0st00490fl95eay2mt8/stats?cursusId=21&coalitionId=9" alt="soukamar's 42 stats" /></a>
+https://badge42.vercel.app/api/v2/claetr0st00490fl95eay2mt8/stats?cursusId=21&coalitionId=46
